@@ -181,7 +181,7 @@
           <h2>Daftar Pengadaan</h2>
           <p>Berikut adalah daftar Pengadaan yang sedang aktif</p>
         </div>
-        
+
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
